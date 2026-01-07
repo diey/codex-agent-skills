@@ -8,6 +8,8 @@ enforcement, and quality expectations so they do not need to be restated on ever
 
 Codex automatically discovers and applies these skills when operating inside this repository.
 
+Most of it is for personal use in **Laravel** project.
+
 ---
 
 ## Included Skills
