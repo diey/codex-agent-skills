@@ -10,6 +10,8 @@ Codex automatically discovers and applies these skills when operating inside thi
 
 Most of it is for personal use in **Laravel** project.
 
+For reference, please refer to the [official documentation](https://developers.openai.com/codex/skills/).
+
 ---
 
 ## Included Skills
